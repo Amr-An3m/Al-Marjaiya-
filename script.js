@@ -70,6 +70,7 @@ const TRANSLATIONS = {
     latestProjectsTitle: "قصص نجاح حديثة",
     latestProjectsSubtitle:
       "استكشف بعض حملاتنا الأخيرة التي حققت نتائج استثنائية وخلقت تأثيراً دائمًا لعملائنا.",
+    viewAllProjects: "عرض جميع المشاريع",
 
     /* ========================================
    services.html Translations
